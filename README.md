@@ -8,3 +8,5 @@ This is useful when browsing videos on Niconico that are region locked. You'll s
 3. Run script
 
 You will now stream directly from Niconico
+
+You can also turn this into a bookmarklet by putting `javascript: ` before the code and set the whole thing as a bookmark.
