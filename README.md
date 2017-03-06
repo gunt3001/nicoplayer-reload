@@ -5,7 +5,7 @@ This is useful when browsing videos on Niconico that are region locked. You'll s
 
 1. Use VPN to access the video page
 2. Wait for the player to load and disconnect the VPN
-3. Run script
+3. Run [script](script.js)
 
 You will now stream directly without VPN
 
